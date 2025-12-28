@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(flutter create:*)",
+      "Bash(brew:*)",
+      "Bash(export PATH=\"$PATH:/opt/homebrew/Caskroom/flutter/3.27.3/flutter/bin\")",
+      "Bash(flutter pub add:*)"
+    ]
+  }
+}
